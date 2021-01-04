@@ -1632,7 +1632,7 @@
 
 .recom-r ul {
   width: 200%;
-  animation: moving 8s linear infinite;
+  animation: moving 30s linear infinite;
 }
 
 @keyframes moving {
